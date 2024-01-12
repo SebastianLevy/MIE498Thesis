@@ -1,6 +1,8 @@
 
 # 3D Vision and Deep Learning Based Robotic Grasping for Human-Robot Interactions
 
+### Most of the code is under NDA, however a preview of the code used can be found in this repository
+
 ## Overview
 This project presents a novel approach to robotic grasping in cluttered environments, combining 3D vision with deep learning. The system integrates Mask R-CNN, 3D Convolutional Neural Networks (CNNs), and a UR5 robotic arm to identify, grasp, and manipulate objects accurately and adaptively.
 
